@@ -2,6 +2,7 @@ nk = input()
 n , k = nk.split(" ")
 n , k  = int(n) , int(k)
 
+
 li = []
 for i in range(n):
     for j in range(2):
